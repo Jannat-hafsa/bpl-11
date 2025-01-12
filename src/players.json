@@ -1,0 +1,153 @@
+[
+    {
+      "playerId": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co.com/G3zCbkH/image.png",
+      "role": "Batsman",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "Right-Arm Medium",
+      "price": 2000000
+    },
+    {
+      "playerId": 2,
+      "name": "Steve Smith",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/BzRC4tm/image.png",
+      "role": "Batsman",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "Right-Arm Leg Spin",
+      "price": 1800000
+    },
+    {
+      "playerId": 3,
+      "name": "Joe Root",
+      "country": "England",
+      "image": "https://i.ibb.co.com/KLVC2pY/image.png",
+      "role": "All-Rounder",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "Right-Arm Off Spin",
+      "price": 1700000
+    },
+    {
+      "playerId": 4,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/xFbbGz9/image.png",
+      "role": "Batsman",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "Right-Arm Off Spin",
+      "price": 1900000
+    },
+    {
+      "playerId": 5,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co.com/Jxk4wsD/image.png",
+      "role": "Bowler",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "Right-Arm Leg Spin",
+      "price": 1500000
+    },
+    {
+      "playerId": 6,
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/NST6vdx/image.png",
+      "role": "Batsman",
+      "battingStyle": "Left-Hand Bat",
+      "bowlingStyle": "None",
+      "price": 1750000
+    },
+    {
+      "playerId": 7,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "image": "https://i.ibb.co.com/T1M0TnM/image.png",
+      "role": "Bowler",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "Right-Arm Fast",
+      "price": 2200000
+    },
+    {
+      "playerId": 8,
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://i.ibb.co.com/DpyVf7m/image.png",
+      "role": "All-Rounder",
+      "battingStyle": "Left-Hand Bat",
+      "bowlingStyle": "Right-Arm Medium Fast",
+      "price": 2100000
+    },
+    {
+      "playerId": 9,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/bRQnvJc/image.png",
+      "role": "Batsman",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "None",
+      "price": 1950000
+    },
+    {
+      "playerId": 10,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/7NwpFhs/image.png",
+      "role": "Bowler",
+      "battingStyle": "Left-Hand Bat",
+      "bowlingStyle": "Left-Arm Fast Medium",
+      "price": 1600000
+    },
+    {
+      "playerId": 11,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/nrqGyKr/image.png",
+      "role": "All-Rounder",
+      "battingStyle": "Left-Hand Bat",
+      "bowlingStyle": "Left-Arm Orthodox Spin",
+      "price": 1800000
+    },
+    {
+      "playerId": 12,
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/YRDmjs0/image.png",
+      "role": "Wicketkeeper Batsman",
+      "battingStyle": "Left-Hand Bat",
+      "bowlingStyle": "None",
+      "price": 1700000
+    },
+    {
+      "playerId": 13,
+      "name": "Marnus Labuschagne",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/Nmm6FC6/image.png",
+      "role": "Batsman",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "Right-Arm Leg Spin",
+      "price": 1850000
+    },
+    {
+      "playerId": 14,
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "image": "https://i.ibb.co.com/VLC4VHG/image.png",
+      "role": "All-Rounder",
+      "battingStyle": "Right-Hand Bat",
+      "bowlingStyle": "Right-Arm Fast",
+      "price": 2000000
+    },
+    {
+      "playerId": 15,
+      "name": "Mitchell Starc",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/kgG28c8/image.png",
+      "role": "Bowler",
+      "battingStyle": "Left-Hand Bat",
+      "bowlingStyle": "Left-Arm Fast",
+      "price": 2300000
+    }
+  ]
+  
